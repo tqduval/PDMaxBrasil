@@ -4,4 +4,4 @@ Este repositório contém cinco arquivos .RDS referentes ao Projeto Final em Eng
   2. `df.removido`: estações removidas da análise;
   3. `df.precip.max.anual`: séries históricas após a aplicação dos filtros;
   4. `df.param`: resultados dos ajustes (parâmetros estimados por cada método);
-  5. `df.quantis_long`: quantis calculados para tempos de retorno de 10, 20, 50, 100, 200 e 500 anos.
+  5. `df.quantis`: quantis calculados para tempos de retorno de 10, 20, 50, 100, 200 e 500 anos.
